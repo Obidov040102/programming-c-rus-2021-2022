@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(16,23): error C2059: syntax error: ';'
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(18,2): error C2059: syntax error: 'else'
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(19,1): error C2143: syntax error: missing ';' before '{'
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(19,1): error C2447: '{': missing function header (old-style formal list?)
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(22,2): error C2059: syntax error: 'return'
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(23,1): error C2059: syntax error: '}'
-C:\Users\user\Desktop\123\2021.09.30. Homework -2\Project6\Source.cpp(23,1): error C2143: syntax error: missing ';' before '}'
