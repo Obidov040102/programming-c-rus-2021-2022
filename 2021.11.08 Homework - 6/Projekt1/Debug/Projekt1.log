@@ -1,0 +1,14 @@
+﻿Сборка начата 13.11.2021 19:09:46.
+     1>Проект "C:\Users\МУХАММАДАМИН\Desktop\2021.11.08 Homework - 6\Projekt1\Projekt1.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(355,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\МУХАММАДАМИН\Desktop\2021.11.08 Homework - 6\Debug\Projekt1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\МУХАММАДАМИН\Desktop\2021.11.08 Homework - 6\Debug\Projekt1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\МУХАММАДАМИН\Desktop\2021.11.08 Homework - 6\Debug\Projekt1.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+     1>LINK : fatal error LNK1104: не удается открыть файл "kernel32.lib"
+     1>Сборка проекта "C:\Users\МУХАММАДАМИН\Desktop\2021.11.08 Homework - 6\Projekt1\Projekt1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:03.06
